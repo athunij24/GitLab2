@@ -1,2 +1,2 @@
 # GitLab2
-# training lab 2
+training lab 2
